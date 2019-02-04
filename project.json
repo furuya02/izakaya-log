@@ -1,0 +1,12 @@
+{
+  "name": "izakaya-log",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "runtime": "nodejs8.10",
+  "handler": "Transform.handle",
+  "role": "arn:aws:iam::439028474478:role/izakaya-log_lambda_function",
+  "environment": {
+    "TZ": "Asia/Tokyo"
+  }
+}

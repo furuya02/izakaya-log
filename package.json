@@ -1,0 +1,25 @@
+{
+  "name": "connect-izakaya-log",
+  "version": "1.0.0",
+  "description": "IVRによる居酒屋予約のログ生成",
+  "main": "index.js",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.18",
+    "@types/aws-sdk": "^2.7.0",
+    "@types/node": "^10.12.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furuya02/connect-izakaya-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furuya02/connect-izakaya-log/issues"
+  },
+  "homepage": "https://github.com/furuya02/connect-izakaya-log#readme"
+}
