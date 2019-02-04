@@ -1,5 +1,6 @@
-# connect-izakaya-log
-IVRによる居酒屋予約のログ生成
+# izakaya-log
+IVRで無人の予約受付を作ってみました　〜居酒屋の予約の場合〜　のログ集計
+
 
 
 ```
