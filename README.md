@@ -6,8 +6,8 @@ IVRによる居酒屋予約のログ生成
 $ git clone https://github.com/furuya02/izakaya-log.git
 $ cd izakaya-log
 $ npm install
-$ cd functions/conect
-$ npm install aws-sdk
+$ cd functions/connect
+$ npm install
 $ cd ../..
 $ tsc
 ```
